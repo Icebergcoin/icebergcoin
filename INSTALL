@@ -1,0 +1,9 @@
+Building icebergcoin
+
+See doc/readme-qt.rst for instructions on building icebergcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of icebergcoin.
+
+See doc/build-*.txt for instructions on building icebergcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of icebergcoin.
