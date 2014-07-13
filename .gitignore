@@ -5,7 +5,6 @@ build/*
 
 icebergcoin-Qt.app/*
 
-Makefile*
 
 src/obj/*
 src/obj/zerocoin/*
@@ -70,7 +69,6 @@ src/qt/test/moc*.cpp
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile*
 icebergcoin-qt
 Icebergcoin-Qt.app
 
@@ -159,7 +157,6 @@ src/qt/test/moc*.cpp
 
 # Compilation and Qt preprocessor part
 *.qm
-Makefile
 icebergcoin-qt
 Icebergcoin-Qt.app
 
@@ -192,3 +189,4 @@ qa/pull-tester/run-icebergcoind-for-test.sh
 qa/pull-tester/build-tests.sh
 
 !src/leveldb*/Makefile
+Makefile
